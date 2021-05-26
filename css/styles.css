@@ -6,12 +6,18 @@
   color: pink;
   border: 10px solid pink;
   width: 30%;
-  float: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
 }
 .style2 {
   background: teal;
   color: coral;
   border: 10px solid coral;
+  width: 30%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
 }
 .bold {
   font-weight: bolder;
@@ -23,4 +29,31 @@ img {
 .column {
   width: 300px;
   float: left;
+}
+.color{
+  background-color: teal;
+}
+.quarter{
+  width: 200px;
+  height: 200px;
+  background: coral;
+  border-radius: 0 0 200px 0;
+  -moz-border-radius: 0 0 200px 0;
+  -webkit-border-radius: 0 0 200px 0;
+  color: teal;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.quarter2{
+  width: 200px;
+  height: 200px;
+  background: coral;
+  border-radius: 0 0 0 200px;
+  -moz-border-radius: 0 0 0 200px;
+  -webkit-border-radius: 0 0 0 200px;
+  color: teal;
+  float:right;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
