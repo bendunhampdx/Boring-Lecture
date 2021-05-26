@@ -5,18 +5,20 @@
   background:aqua;
   color: pink;
   border: 10px solid pink;
-  width: 30%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
+  text-align: center;  
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
 }
 .style2 {
   background: teal;
   color: coral;
   border: 10px solid coral;
-  width: 30%;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
   text-align: center;
 }
 .bold {
@@ -42,8 +44,6 @@ img {
   -webkit-border-radius: 0 0 200px 0;
   color: teal;
   float: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 .quarter2{
   width: 200px;
@@ -54,6 +54,4 @@ img {
   -webkit-border-radius: 0 0 0 200px;
   color: teal;
   float:right;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
