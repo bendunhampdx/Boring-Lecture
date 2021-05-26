@@ -1,3 +1,17 @@
 .intro {
   color: aqua;
 }
+.style1 {
+  background:aqua;
+  color: pink;
+  border: 10px solid pink;
+}
+.style2 {
+  background: teal;
+  color: coral;
+  border: 10px solid coral;
+}
+.bold {
+  font-weight: bolder;
+  font-style: italic;
+}
