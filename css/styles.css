@@ -5,6 +5,8 @@
   background:aqua;
   color: pink;
   border: 10px solid pink;
+  width: 30%;
+  float: right;
 }
 .style2 {
   background: teal;
@@ -14,4 +16,11 @@
 .bold {
   font-weight: bolder;
   font-style: italic;
+}
+img {
+  float: left;
+}
+.column {
+  width: 300px;
+  float: left;
 }
